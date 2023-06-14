@@ -20,6 +20,7 @@
 - [Pengembang](#fireworks-anggota-tim-pengembang)
 
 <div align="justify">
+ 
 ## :memo: Tentang Data Pangan dan Scrapping 
  
 Pangan menurut Undang-Undang Republik Indonesia nomor 18 tahun 2012 adalah segala sesuatu yang berasal dari sumber hayati produk pertanian, perkebunan, kehutanan, perikanan, perternakan, perairan, dan air baik yang diolahmaupun tidak dioleh yang diperuntukkan sebagai makanan atau minuman bagi konsumsi manusia, termasuk nahan tangan pangan, bahan baku pangan, bahan lainnya yang digunakan dalam proses penyiapan,pengolahan, dan/atau pembuatan makanan atau minuman.
