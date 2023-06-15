@@ -27,11 +27,11 @@ Pangan menurut Undang-Undang Republik Indonesia nomor 18 tahun 2012 adalah segal
 </div>
 
 <div align="justify">
-Scraping web adalah salah satu teknik pengambilan data semi terstruktur dari internet pada umumnya berupa halaman website dalam bahasa HTML atau XTML, untuk mempermudah mengambil data dari sebuah website secara otomatis tanpa perlu menyalin data secara manual dan menganalisa dokumen tersebut untuk diambil data tertentu dari halaman website yang digunakan untuk kepentingan lain. (Turland, 2010). link yang digunakan untuk scrapping data adalah https://hargapangan.id/
+Scraping web adalah salah satu teknik pengambilan data semi terstruktur dari internet pada umumnya berupa halaman website dalam bahasa HTML atau XTML, untuk mempermudah mengambil data dari sebuah website secara otomatis tanpa perlu menyalin data secara manual dan menganalisa dokumen tersebut untuk diambil data tertentu dari halaman website yang digunakan untuk kepentingan lain. (Turland, 2010). 
 </div>
 
 <div align="justify">
-Data yang digunakan pada project ini adalah pangan. Data tersebut diperoleh dari hasil scrapping dan google dengan link: 
+Data yang digunakan pada project ini adalah harga pangan. Data tersebut diperoleh dari hasil scrapping dan google dengan link: https://hargapangan.id/
 </div>
 
 <div align="justify">
