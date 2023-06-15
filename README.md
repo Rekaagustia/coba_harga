@@ -3,6 +3,7 @@
 
 # harga_pangan
 
+ [![scrape_hashtag](https://github.com/Rekaagustia/harga_pangan/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/Rekaagustia/harga_pangan/blob/main/.github/workflows/main.yml)
 
 • [Tentang Data Pangan dan Scrapping](#memo-tentang-data-base-my-skincare)
 • [Demo](#video_camera-demo)
@@ -27,7 +28,7 @@ Pangan menurut Undang-Undang Republik Indonesia nomor 18 tahun 2012 adalah segal
 </div>
 
 <div align="justify">
-Scraping web adalah salah satu teknik pengambilan data semi terstruktur dari internet pada umumnya berupa halaman website dalam bahasa HTML atau XTML, untuk mempermudah mengambil data dari sebuah website secara otomatis tanpa perlu menyalin data secara manual dan menganalisa dokumen tersebut untuk diambil data tertentu dari halaman website yang digunakan untuk kepentingan lain. (Turland, 2010).
+Scraping web adalah salah satu teknik pengambilan data semi terstruktur dari internet pada umumnya berupa halaman website dalam bahasa HTML atau XTML, untuk mempermudah mengambil data dari sebuah website secara otomatis tanpa perlu menyalin data secara manual dan menganalisa dokumen tersebut untuk diambil data tertentu dari halaman website yang digunakan untuk kepentingan lain. (Turland, 2010). link yang digunakan untuk scrapping data adalah https://hargapangan.id/
 </div>
 
 <div align="justify">
