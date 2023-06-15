@@ -51,7 +51,8 @@ Data yang digunakan pada project ini adalah harga pangan. Data tersebut diperole
 ## :blue_book: Dokumentasi 
  
  ```
-{"_id":{"$oid":"648a74a3cbd190153d0d8961"},\n
+ 
+{"_id":{"$oid":"648a74a3cbd190153d0d8961"},
  "No_":"I",
  "Komoditas (Rp)":"Beras",
  "07/06/2023":{"$numberDouble":"12.5"},
