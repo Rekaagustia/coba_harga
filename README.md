@@ -3,7 +3,6 @@
 
 # harga_pangan
 
- [![scrape_hashtag](https://github.com/Rekaagustia/harga_pangan/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/Rekaagustia/harga_pangan/blob/main/.github/workflows/main.yml)
 
 • [Tentang Data Pangan dan Scrapping](#memo-tentang-data-base-my-skincare)
 • [Demo](#video_camera-demo)
